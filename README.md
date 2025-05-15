@@ -1,4 +1,6 @@
-## BI / Analytics background - getting back up to speed with GitHub, hvaing not used it for a long time :)
+## Hi
+
+I have a BI / Analytics background - getting back up to speed with GitHub, hvaing not used it for a long time :)
 
 <!--
 **Paudie/Paudie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
